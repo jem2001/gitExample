@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,jemankin,Mankin,Juliet
 employee,nangpal,Nangpal,Tapasya
